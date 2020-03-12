@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.12.14 16:31:45.193.cpp,C:\Users\User\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit1.cpp</Transaction>
+    <Transaction>2018.12.14 16:31:45.193.h,C:\Users\User\Documents\RAD Studio\Projects\Unit1.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit1.h</Transaction>
+    <Transaction>2018.12.14 16:31:45.193.dfm,C:\Users\User\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit1.dfm</Transaction>
+    <Transaction>2018.12.14 16:31:46.260.cbproj,C:\Users\User\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Project1.cbproj</Transaction>
+    <Transaction>2018.12.14 17:17:30.735.cpp,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Game.cpp</Transaction>
+    <Transaction>2018.12.14 17:17:30.735.h,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Game.h</Transaction>
+    <Transaction>2018.12.14 17:18:42.998.cpp,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Game.cpp</Transaction>
+    <Transaction>2018.12.14 17:18:42.998.h,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Game.h</Transaction>
+    <Transaction>2018.12.14 17:19:04.358.cpp,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Cell.cpp</Transaction>
+    <Transaction>2018.12.14 17:19:04.358.h,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Cell.h</Transaction>
+    <Transaction>2018.12.14 17:19:17.451.cpp,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Ship.cpp</Transaction>
+    <Transaction>2018.12.14 17:19:17.451.h,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Ship.h</Transaction>
+    <Transaction>2018.12.14 17:19:42.132.cpp,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.cpp=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Field.cpp</Transaction>
+    <Transaction>2018.12.14 17:19:42.132.h,C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Unit2.h=C:\Users\User\Documents\RAD Studio\Projects\SeaBattle\Field.h</Transaction>
+  </Transactions>
+</BorlandProject>
